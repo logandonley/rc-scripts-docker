@@ -1,5 +1,7 @@
 # Rocket.Chat Docker + Built-in hubot scripts
 
+[![Docker Repository on Quay](https://quay.io/repository/logandonley/rocket.chat/status "Docker Repository on Quay")](https://quay.io/repository/logandonley/rocket.chat)
+
 Throw any hubot scripts into the scripts directory and then build out the Dockerfile with:
 
 `docker build -t DESIRED_NAME .`
